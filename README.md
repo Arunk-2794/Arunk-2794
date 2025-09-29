@@ -1,5 +1,4 @@
 Hey 👋 What's up?
-I'm Arun Kumar
 # 💫 About Me:
 🔭 I’m a passionate Cloud Computing<br>- 📚 I'm currently learning Artificial Intelligence and Machine learning<br>- ⚡ In my free time I work on new tools
 
