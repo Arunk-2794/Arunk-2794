@@ -3,7 +3,7 @@ Hey 👋 What's up?
 🔭 I’m a passionate Cloud Computing<br>- 📚 I'm currently learning Artificial Intelligence and Machine learning<br>- ⚡ In my free time I work on new tools
 
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/killampalliarunkumar66) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:killampalli666@gmail.com) 
 
 # 💻 Tech Stack:
